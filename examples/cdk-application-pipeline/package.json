@@ -19,7 +19,7 @@
     "eslint-import-resolver-typescript": "^3.3.0",
     "eslint-plugin-import": "^2.26.0",
     "jest": "^27.0",
-    "jest-junit": "^13",
+    "jest-junit": "^15",
     "json-schema": "^0.4.0",
     "npm-check-updates": "^15",
     "projen": "^0.60.3",
