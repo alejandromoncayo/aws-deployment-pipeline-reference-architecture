@@ -41,7 +41,7 @@
     "@aws-sdk/shared-ini-file-loader": "^3.292.0",
     "@cdklabs/cdk-ecs-codedeploy": "^0.0.101",
     "@types/aws-lambda": "^8.10.114",
-    "@types/prompts": "^2.4.3",
+    "@types/prompts": "^2.4.4",
     "aws-cdk-lib": "^2.69.0",
     "constructs": "^10.1.283",
     "prompts": "^2.4.2",
