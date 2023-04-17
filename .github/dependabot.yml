@@ -9,5 +9,13 @@ updates:
     directory: "/examples/cdk-application-pipeline/" # Location of package manifests
     schedule:
       interval: "daily"
-    labels: 
-      - "auto-approve"
+updates:
+  - package-ecosystem: "npm" # See documentation for possible values
+    directory: "/examples/codecatalyst-application-pipeline/" # Location of package manifests
+    schedule:
+      interval: "daily"
+updates:
+  - package-ecosystem: "maven" # See documentation for possible values
+    directory: "/examples/codecatalyst-application-pipeline/" # Location of package manifests
+    schedule:
+      interval: "daily"
